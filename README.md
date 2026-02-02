@@ -1,4 +1,4 @@
 # MyfirstProjectOnGithub
 This is my first Git Repository.
 <br>
-Author - Haushiram Wakchaure
+Author - Haushiram Wakchaure(golang)
