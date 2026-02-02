@@ -1,2 +1,4 @@
-# user1
-this is my first repo
+# MyfirstProjectOnGithub
+this is my first Git Repository
+<
+Author - Haushiram Wakchaure
